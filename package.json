@@ -1,0 +1,22 @@
+{
+  "name": "devowel",
+  "version": "1.0.0",
+  "description": "Remove vowels from a string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsega/devowel.git"
+  },
+  "keywords": [
+    "string"
+  ],
+  "author": "Tsega",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tsega/devowel/issues"
+  },
+  "homepage": "https://github.com/tsega/devowel#readme"
+}
